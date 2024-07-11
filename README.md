@@ -11,8 +11,8 @@ O objetivo desse projeto é criar uma RESTful API com .NET que permite a inserç
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/seu-usuario/api-de-filmes.git
-   cd api-de-filmes
+   git clone https://github.com/JoaoVictorFdeBarros/FilmsAPI-.NET.git
+
    ```
 2. **Configuração do Banco de Dados**
     
